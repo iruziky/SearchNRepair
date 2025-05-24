@@ -1,7 +1,7 @@
 # Search'n Repair 📱🔍
 
 🔗 **Acesse agora:** [https://searchnrepair.netlify.app/](https://searchnrepair.netlify.app/)  
-Veja celulares com defeito encontrados na OLX — ao vivo e direto do navegador.
+⚠️ Importante: Após acessar o site pela primeira vez, pode demorar até 2 minutos para os dados carregarem, pois a API está hospedada no plano gratuito da Render, que mantém o serviço em hibernação. Após esse tempo, atualize a página para visualizar os celulares com defeito.
 
 ---
 
